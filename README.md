@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/ducky92fr/TDD_React-.svg?branch=master)](https://travis-ci.org/ducky92fr/TDD_React-)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
